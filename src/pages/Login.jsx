@@ -2,7 +2,7 @@ import React from 'react';
 
 const Login = () => {
     return (
-        <div>
+        <div className="lg:max-w-7xl max-w-[350px] mx-auto">
             
         </div>
     );
