@@ -1,5 +1,5 @@
 import React from 'react';
-import { Outlet } from 'react-router';
+import AllComponent from '../pages/AllComponent';
 
 const Root = () => {
     return (
@@ -13,8 +13,9 @@ const Root = () => {
             {/* Content */}
             <div className="relative z-20">
                 <h1 className="text-white text-4xl">Welcome to Travel World</h1>
-                <Outlet></Outlet>
+                <AllComponent></AllComponent>
             </div>
+            
         </div>
 
     );
