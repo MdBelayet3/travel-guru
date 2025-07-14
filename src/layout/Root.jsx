@@ -1,10 +1,12 @@
-
+import React from 'react';
+import { Outlet } from 'react-router';
 
 const Root = () => {
     return (
-        <div>
-            <h1>Hi Developer</h1>
+        <div className='font-montserrat'>
+            <Outlet></Outlet>
         </div>
+
     );
 };
 
