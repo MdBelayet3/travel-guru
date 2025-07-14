@@ -1,11 +1,28 @@
-import React from 'react';
+import { createBrowserRouter } from "react-router";
+import Home from "../pages/Home";
+import Root from "../layout/Root";
+import Login from "../pages/Login";
+import Register from "../pages/Register"
 
-const Router = () => {
-    return (
-        <div>
-            
-        </div>
-    );
-};
+const router = createBrowserRouter([
+    {
+        path: '/',
+        element: <Root></Root>,
+        children:[
+            {
+                path: '/',
+                element: <Home></Home>,
+            },
+            {
+                path: "/login",
+                element: <Login></Login>
+            },
+            {
+                path: "/register",
+                element: <Register></Register>
+            }
+        ]
+    }
+])
 
-export default Router;
+export default router;
