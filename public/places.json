@@ -4,5 +4,59 @@
     "image_url": "https://i.ibb.co/h18Hw4wh/download-1.jpg",
     "name": "Cox's Bazar",
     "description": "Cox's Bazar is the world's longest natural sea beach, offering scenic views, soft sand, and beautiful sunsets, making it a favorite destination for beach lovers."
+  },
+  {
+    "id": 2,
+    "image_url": "https://i.ibb.co/q3b2nF1m/download-2.jpg",
+    "name": "Sundarbans",
+    "description": "The Sundarbans is the world's largest mangrove forest and home to the majestic Royal Bengal Tiger, known for its biodiversity and natural beauty."
+  },
+  {
+    "id": 3,
+    "image_url": "https://i.ibb.co/Kxgc247X/download-3.jpg",
+    "name": "Saint Martin's Island",
+    "description": "Saint Martin’s Island is a small coral island in the Bay of Bengal, known for its crystal-clear water, coconut trees, and peaceful atmosphere."
+  },
+  {
+    "id": 4,
+    "image_url": "https://i.ibb.co/KzhGzMs1/download-4.jpg",
+    "name": "Sajek Valley",
+    "description": "Sajek Valley, located in the Chittagong Hill Tracts, is famous for its scenic beauty, cloud-covered hills, and breathtaking sunsets and sunrises."
+  },
+  {
+    "id": 5,
+    "image_url": "https://i.ibb.co/tM18160k/download-5.jpg",
+    "name": "Srimangal",
+    "description": "Srimangal is known as the tea capital of Bangladesh, with endless tea gardens, rolling green hills, and the unique seven-layer tea."
+  },
+  {
+    "id": 6,
+    "image_url": "https://i.ibb.co/r26zn3Qk/download-6.jpg",
+    "name": "Jaflong",
+    "description": "Jaflong, located in Sylhet, offers stunning views of hills, rivers, and stone collection activities. It’s famous for natural beauty and tribal culture."
+  },
+  {
+    "id": 7,
+    "image_url": "https://i.ibb.co/pvz8kCLC/download-7.jpg",
+    "name": "Rangamati",
+    "description": "Rangamati is a beautiful hill district featuring the serene Kaptai Lake, tribal culture, hanging bridges, and tranquil natural surroundings."
+  },
+  {
+    "id": 8,
+    "image_url": "https://i.ibb.co/M5PM6pq6/download-8.jpg",
+    "name": "Kuakata",
+    "description": "Kuakata is known as the 'Daughter of the Sea' and offers the unique view of both sunrise and sunset over the Bay of Bengal."
+  },
+  {
+    "id": 9,
+    "image_url": "https://i.ibb.co/8DTd1cMP/download-9.jpg",
+    "name": "Mahasthangarh",
+    "description": "Mahasthangarh is an ancient archaeological site in Bogura, showcasing the remains of a lost city from the 3rd century BC."
+  },
+  {
+    "id": 10,
+    "image_url": "https://i.ibb.co/BH8fBQL6/download-10.jpg",
+    "name": "Lalbagh Fort",
+    "description": "Lalbagh Fort is an unfinished Mughal fortress in Dhaka, reflecting rich history, Mughal architecture, and a peaceful garden setting."
   }
 ]
