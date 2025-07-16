@@ -4,5 +4,59 @@
     "image_url": "https://i.ibb.co/h18Hw4wh/download-1.jpg",
     "name": "Cox's Bazar",
     "description": "Cox's Bazar, the world’s longest natural sea beach, stretches endlessly with golden sand and turquoise waves. Visitors enjoy vibrant sunsets, beach sports, and fresh seafood. The beach town also offers nearby attractions like Himchari and Inani Beach, making it an ideal destination for nature lovers, family vacations, and photographers seeking beauty, peace, and an unforgettable coastal experience."
+  },
+  {
+    "id": 2,
+    "image_url": "https://i.ibb.co/q3b2nF1m/download-2.jpg",
+    "name": "Sundarbans",
+    "description": "The Sundarbans, the world’s largest mangrove forest, lies in the delta region of the Bay of Bengal. It's renowned for its complex ecosystem, diverse wildlife, and as the home of the Royal Bengal Tiger. Tourists visit to explore mangrove trails, see crocodiles and deer, and experience unique boat safaris through this enchanting and ecologically vital wetland wilderness."
+  },
+  {
+    "id": 3,
+    "image_url": "https://i.ibb.co/Kxgc247X/download-3.jpg",
+    "name": "Saint Martin's Island",
+    "description": "Saint Martin’s Island, a coral paradise in the Bay of Bengal, is known for its crystal-clear blue waters, sandy beaches, and coconut palm-lined shores. Tourists enjoy snorkeling, fresh seafood, boat rides, and a peaceful, slow-paced environment. Its starry nights, coral biodiversity, and tranquil atmosphere make it a perfect escape from the hustle and bustle of city life."
+  },
+  {
+    "id": 4,
+    "image_url": "https://i.ibb.co/KzhGzMs1/download-4.jpg",
+    "name": "Sajek Valley",
+    "description": "Sajek Valley, nestled in the Chittagong Hill Tracts, offers mesmerizing views of cloud-kissed hills and vibrant tribal life. The valley is perfect for hiking, photography, and witnessing sunrises above the clouds. Wooden cottages, colorful gardens, and calm weather attract tourists seeking natural serenity, cultural exploration, and memorable moments high above the surrounding lush, green forested landscape of Bangladesh."
+  },
+  {
+    "id": 5,
+    "image_url": "https://i.ibb.co/tM18160k/download-5.jpg",
+    "name": "Srimangal",
+    "description": "Srimangal, known as Bangladesh’s tea capital, is a haven of rolling green tea gardens, scenic views, and aromatic plantations. Visitors enjoy peaceful walks, visits to tribal villages, and tasting the famous seven-layer tea. Wildlife sanctuaries and nearby forests add adventure, making Srimangal a refreshing destination for eco-tourism, cultural encounters, and relaxing amidst lush natural surroundings and misty hills."
+  },
+  {
+    "id": 6,
+    "image_url": "https://i.ibb.co/r26zn3Qk/download-6.jpg",
+    "name": "Jaflong",
+    "description": "Jaflong, located in Sylhet near the India-Bangladesh border, is admired for its scenic river views, stone collection sites, and Khasi tribal lifestyle. The clear waters of the Dawki River, the backdrop of green hills, and cultural richness make it a perfect spot for sightseeing, photography, and nature tours. It's a serene destination blending natural wonder with traditional village life."
+  },
+  {
+    "id": 7,
+    "image_url": "https://i.ibb.co/pvz8kCLC/download-7.jpg",
+    "name": "Rangamati",
+    "description": "Rangamati, a beautiful hill district, is famous for the peaceful Kaptai Lake, tribal heritage, and stunning landscapes. Boating on the lake, visiting Buddhist temples, and exploring handicraft markets are popular activities. Surrounded by lush forests and hills, Rangamati offers a perfect mix of cultural charm, relaxation, and eco-tourism, making it ideal for explorers and nature lovers across Bangladesh."
+  },
+  {
+    "id": 8,
+    "image_url": "https://i.ibb.co/M5PM6pq6/download-8.jpg",
+    "name": "Kuakata",
+    "description": "Kuakata, called the ‘Daughter of the Sea’, offers rare views of both sunrise and sunset over the Bay of Bengal. Its wide sandy beach, calm waves, and peaceful surroundings attract travelers seeking beauty and solitude. Known for Buddhist temples and local culture, Kuakata is a destination that blends nature, spirituality, and relaxation for visitors of all kinds."
+  },
+  {
+    "id": 9,
+    "image_url": "https://i.ibb.co/8DTd1cMP/download-9.jpg",
+    "name": "Mahasthangarh",
+    "description": "Mahasthangarh, an ancient archaeological marvel in Bogura, reveals the history of one of the earliest urban settlements in Bengal. Dating back to the 3rd century BC, its massive walls, relics, and museum attract historians and tourists alike. The site offers a fascinating glimpse into Bangladesh’s past, where ancient civilizations once thrived along the serene Karatoya River's bank."
+  },
+  {
+    "id": 10,
+    "image_url": "https://i.ibb.co/BH8fBQL6/download-10.jpg",
+    "name": "Lalbagh Fort",
+    "description": "Lalbagh Fort, an iconic Mughal structure in Old Dhaka, remains unfinished yet historically rich. Built in the 17th century, it features majestic gates, tombs, a mosque, and lush gardens. The fort offers a peaceful retreat from city life, making it a popular spot for history lovers, students, and tourists exploring Bangladesh’s rich Islamic architecture and Mughal heritage."
   }
 ]
