@@ -30,7 +30,7 @@ const TouristSpot = () => {
                     <div className='sticky top-2 bg-[#160929] z-50 '>
                         <Navbar></Navbar>
                     </div>
-                    <div className='lg:mt-16 mt-10 grid grid-rows-1 lg:grid-cols-2 gap-6 lg:gap-36 rounded-2xl'>
+                    <div className='lg:mt-16 mt-10 grid grid-rows-1 lg:grid-cols-2 gap-7 lg:gap-36 rounded-2xl'>
                         <div className='text-white'>
                             <h1 className='lg:text-left text-center text-3xl mb-5 lg:text-5xl'>{touristSpot?.name}</h1>
                             <p className=''>{touristSpot?.description}</p>
