@@ -1,10 +1,14 @@
-import React from 'react';
+import React, { createContext } from 'react';
 
-const AuthProvider = () => {
+    /* eslint-disable-next-line react-refresh/only-export-components */
+   export const AuthContext = createContext(null);
+
+const AuthProvider = ({children}) => {
+    const authInfo = {name:'shona pakhi'}
     return (
-        <div>
-            
-        </div>
+        <AuthContext.Provider value={authInfo}>
+            {children}
+        </AuthContext.Provider>
     );
 };
 
