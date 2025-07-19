@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import AuthProvider from '../providers/AuthProvider';
+import Navbar from './shared/Navbar';
 
 const Booking = () => {
     const name = useContext(AuthProvider);
