@@ -8,6 +8,20 @@ const Login = () => {
 
     // useState hook for eye btn show or not
     const [eyeBtn, setEyeBtn] = useState(false);
+    
+    // handle login function
+    const handleLogin = e => {
+        e.preventDefault();
+
+        // to get input field
+        console.log(e.currentTarget);
+        const form = new FormData(e.currentTarget);
+        console.log(form);
+        const email = form.get('email');
+        const password = form.get('password');
+        console.log(email, password);
+    }
+
 
     return (
         <div className='bg-[#160929]'>
@@ -16,7 +30,7 @@ const Login = () => {
             </div>
             <div className="lg:max-w-xl max-w-[350px] mx-auto my-10">
                 <div className='lg:max-w-2xl mx-auto '>
-                    <form className='border-2 bg-white rounded-md border-gray-300 p-3 lg:px-12 lg:py-8 space-y-5'>
+                    <form onSubmit={handleLogin} className='border-2 bg-white rounded-md border-gray-300 p-3 lg:px-12 lg:py-8 space-y-5'>
                         <h1 className='text-2xl font-bold'>Please Login</h1>
                         <input type="email" className="w-full placeholder-black p-2 border-b-2" placeholder="UserName or Email" /><br />
                         <div className='relative'>
