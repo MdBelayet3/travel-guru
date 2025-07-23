@@ -55,7 +55,7 @@ const Register = () => {
                             <p>Continue with Facebook</p>
                         </div>
                     </div>
-                    <div className='flex justify-center mt-5'>
+                    <div className='flex justify-center mt-6'>
                         <div className='flex bg-white items-center justify-center gap-4 border-2 rounded-3xl px-7 py-2 text-sm lg:text-xl mb-20'>
                             <FcGoogle className='text-blue-500' />
                             <p>Continue with Google</p>
