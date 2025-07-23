@@ -1,11 +1,17 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import { AuthContext } from '../providers/AuthProvider';
+import { Navigate, useLocation } from 'react-router';
 
-const PrivetRouter = () => {
-    return (
-        <div>
-            <h1 classname = "text-xl font-bold">This is Privet Router</h1>
-        </div>
-    );
-};
+const PrivetRoute = ({children}) => {
 
-export default PrivetRouter;
+    // useLocation and useContext hook
+    const location = useLocation();
+    console.log(location.pathname);
+
+    const { user, loading } = useContext(AuthContext);
+
+    if(loading){
+        return <span className="loading loading-spinner loading-xl"></span>
+    }
+
+    
