@@ -31,7 +31,7 @@ const Login = () => {
             <div className="lg:max-w-xl max-w-[350px] mx-auto my-10">
                 <div className='lg:max-w-2xl mx-auto '>
                     <form onSubmit={handleLogin} className='border-2 bg-white rounded-md border-gray-300 p-3 lg:px-12 lg:py-8 space-y-5'>
-                        <h1 className='text-2xl font-bold'>Please Login</h1>
+                        <h2 className='text-2xl font-bold'>Please Login</h2>
                         <input type="email" className="w-full placeholder-black p-2 border-b-2" placeholder="UserName or Email" /><br />
                         <div className='relative'>
                             <input type={eyeBtn ? "text" : "password"} className="w-full placeholder-black p-2 border-b-2" placeholder="Password" /><br />
